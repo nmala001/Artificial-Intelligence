@@ -1,0 +1,13 @@
+Name:Nandith Reddy Malapati
+
+UIN: 01066678
+
+1)The programs have been written in python.
+
+2)Compile the respective .py file in the python compiler.
+
+3)For N queens and Genetic algorithm programs, Enter the inputs for the number of queens as N=8 and N=16 and compile the code.
+
+4)To change the No. of iterations, go over the main method and give the No. of iterations that you want to perform.
+
+5)The Graphs for Ackley function and Differential Evolution have also been included.

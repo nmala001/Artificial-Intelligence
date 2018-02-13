@@ -1,0 +1,6 @@
+Follow the below mentioned steps to execute the code.
+
+1.Import the file Assignment_1_Final into the java compiler
+2. Execute the class Node.java.
+3. Hit Run button to execute the code.
+4. Only one method can be called at a time. Comment the other methods in the main method.
